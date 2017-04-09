@@ -9,6 +9,8 @@
         <module name="bookpub" />
         <module name="bookpub (1) (org.test.bookpub)" />
         <module name="Springboot-001-多数据源" />
+        <module name="Springboot-002-多profile" />
+        <module name="Springboot-002-多个profile" />
         <module name="SpringbootCookbook-01-SettingUpADataRepositoryService" />
         <module name="SpringbootCookbook-ch01" />
         <module name="SpringbootCookbook-ch01-DatabaseConnection" />
@@ -27,6 +29,8 @@
       <module name="bookpub (1) (org.test.bookpub)" target="1.8" />
       <module name="springboot" target="1.8" />
       <module name="Springboot-001-多数据源" target="1.6" />
+      <module name="Springboot-002-多profile" target="1.6" />
+      <module name="Springboot-002-多个profile" target="1.5" />
       <module name="SpringbootCookbook-01-SettingUpADataRepositoryService" target="1.8" />
       <module name="SpringbootCookbook-ch01" target="1.8" />
       <module name="SpringbootCookbook-ch01-DatabaseConnection" target="1.8" />

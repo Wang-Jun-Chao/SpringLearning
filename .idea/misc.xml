@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters/pom.xml" />
         <option value="$PROJECT_DIR$/SpringFramework/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot-001-多数据源/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-002-多profile/pom.xml" />
       </list>
     </option>
   </component>
