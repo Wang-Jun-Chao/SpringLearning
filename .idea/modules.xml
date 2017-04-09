@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringFramework/SpringFramework.iml" filepath="$PROJECT_DIR$/SpringFramework/SpringFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-001-多数据源/Springboot-001-多数据源.iml" filepath="$PROJECT_DIR$/Springboot-001-多数据源/Springboot-001-多数据源.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch01/SpringbootCookbook-ch01.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch01/SpringbootCookbook-ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch01-SchedulingExecutors/SpringbootCookbook-ch01-SchedulingExecutors.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch01-SchedulingExecutors/SpringbootCookbook-ch01-SchedulingExecutors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch01-SettingUpADataRepositoryService/SpringbootCookbook-ch01-SettingUpADataRepositoryService.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch01-SettingUpADataRepositoryService/SpringbootCookbook-ch01-SettingUpADataRepositoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch0201-CreatingABasicRESTfulApplication/SpringbootCookbook-ch0201-CreatingABasicRESTfulApplication.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch0201-CreatingABasicRESTfulApplication/SpringbootCookbook-ch0201-CreatingABasicRESTfulApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch0202-CreatingASpringDataRESTService/SpringbootCookbook-ch0202-CreatingASpringDataRESTService.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch0202-CreatingASpringDataRESTService/SpringbootCookbook-ch0202-CreatingASpringDataRESTService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch0203-ConfiguringCustomServletFilters/SpringbootCookbook-ch0203-ConfiguringCustomServletFilters.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch0203-ConfiguringCustomServletFilters/SpringbootCookbook-ch0203-ConfiguringCustomServletFilters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch0204-ConfiguringCustomInterceptors/SpringbootCookbook-ch0204-ConfiguringCustomInterceptors.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch0204-ConfiguringCustomInterceptors/SpringbootCookbook-ch0204-ConfiguringCustomInterceptors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters/SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters/SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookbook-ch01-DatabaseConnection/bookpub.iml" filepath="$PROJECT_DIR$/SpringbootCookbook-ch01-DatabaseConnection/bookpub.iml" />
+    </modules>
+  </component>
+</project>

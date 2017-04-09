@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bookpub" />
+        <module name="bookpub (1) (org.test.bookpub)" />
+        <module name="Springboot-001-多数据源" />
+        <module name="SpringbootCookbook-01-SettingUpADataRepositoryService" />
+        <module name="SpringbootCookbook-ch01" />
+        <module name="SpringbootCookbook-ch01-DatabaseConnection" />
+        <module name="SpringbootCookbook-ch01-SchedulingExecutors" />
+        <module name="SpringbootCookbook-ch01-SettingUpADataRepositoryService" />
+        <module name="SpringbootCookbook-ch0201-CreatingABasicRESTfulApplication" />
+        <module name="SpringbootCookbook-ch0202-CreatingASpringDataRESTService" />
+        <module name="SpringbootCookbook-ch0203-ConfiguringCustomServletFilters" />
+        <module name="SpringbootCookbook-ch0204-ConfiguringCustomInterceptors" />
+        <module name="SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters" />
+        <module name="SpringFramework" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bookpub" target="1.8" />
+      <module name="bookpub (1) (org.test.bookpub)" target="1.8" />
+      <module name="springboot" target="1.8" />
+      <module name="Springboot-001-多数据源" target="1.6" />
+      <module name="SpringbootCookbook-01-SettingUpADataRepositoryService" target="1.8" />
+      <module name="SpringbootCookbook-ch01" target="1.8" />
+      <module name="SpringbootCookbook-ch01-DatabaseConnection" target="1.8" />
+      <module name="SpringbootCookbook-ch01-SchedulingExecutors" target="1.8" />
+      <module name="SpringbootCookbook-ch01-SettingUpADataRepositoryService" target="1.8" />
+      <module name="SpringbootCookbook-ch0201-CreatingABasicRESTfulApplication" target="1.8" />
+      <module name="SpringbootCookbook-ch0202-CreatingASpringDataRESTService" target="1.8" />
+      <module name="SpringbootCookbook-ch0203-ConfiguringCustomServletFilters" target="1.8" />
+      <module name="SpringbootCookbook-ch0204-ConfiguringCustomInterceptors" target="1.8" />
+      <module name="SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters" target="1.8" />
+      <module name="SpringFramework" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

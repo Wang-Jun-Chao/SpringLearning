@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch01/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch01-/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-01-SettingUpADataRepositoryService/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch01-DatabaseConnection/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch01-SettingUpADataRepositoryService/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch01-SchedulingExecutors/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch0201-CreatingABasicRESTfulApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch0202-CreatingASpringDataRESTService/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch0203-ConfiguringCustomServletFilters/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch0204-ConfiguringCustomInterceptors/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringFramework/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-001-多数据源/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
