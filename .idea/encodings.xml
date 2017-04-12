@@ -12,6 +12,12 @@
     <file url="file://$PROJECT_DIR$/SpringbootCookbook-ch0203-ConfiguringCustomServletFilters" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringbootCookbook-ch0204-ConfiguringCustomInterceptors" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0206-ConfiguringCustomPropertyEditors" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0301-ConfiguringRouteMatchingPatterns" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0400-db-count-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0401-WritingCustomSpringBootStarters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0500-db-count-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot" charset="UTF-8" />
   </component>
 </project>

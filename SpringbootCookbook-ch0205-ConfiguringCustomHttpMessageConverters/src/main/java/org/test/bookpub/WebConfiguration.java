@@ -33,6 +33,10 @@ public class WebConfiguration extends WebMvcConfigurerAdapter {
         registry.addInterceptor(localeChangeInterceptor());
     }
 
+    /**
+     * Http消息转换器
+     * @return
+     */
     @Bean
     public ByteArrayHttpMessageConverter byteArrayHttpMessageConverter() {
         return new ByteArrayHttpMessageConverter();

@@ -17,6 +17,12 @@
         <option value="$PROJECT_DIR$/SpringFramework/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot-001-多数据源/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot-002-多profile/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookboot-ch0206-ConfiguringCustomPropertyEditors/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookboot-ch0301-ConfiguringRouteMatchingPatterns/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookboot-ch0401-WritingCustomSpringBootStarters/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookboot-ch0400-db-count-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookboot-ch0500-db-count-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing/pom.xml" />
       </list>
     </option>
   </component>

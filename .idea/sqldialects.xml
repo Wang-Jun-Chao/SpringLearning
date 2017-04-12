@@ -2,5 +2,10 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Springboot-001-多数据源/src/main/resources/sqlscript/shop.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing/src/main/resources/data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing/src/main/resources/schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing/src/test/resources/data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing/src/test/resources/packt-books.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing/src/test/resources/test-data.sql" dialect="MySQL" />
   </component>
 </project>

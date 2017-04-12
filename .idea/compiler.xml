@@ -21,6 +21,14 @@
         <module name="SpringbootCookbook-ch0203-ConfiguringCustomServletFilters" />
         <module name="SpringbootCookbook-ch0204-ConfiguringCustomInterceptors" />
         <module name="SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters" />
+        <module name="SpringbootCookboot-ch0206-ConfiguringCustomPropertyEditors" />
+        <module name="SpringbootCookboot-ch0301-ConfiguringRouteMatchingPatterns" />
+        <module name="SpringbootCookboot-ch0301-ConfiguringRouteMatchingPatterns (1)" />
+        <module name="SpringbootCookboot-ch040-db-count-starter" />
+        <module name="SpringbootCookboot-ch0400-db-count-starter" />
+        <module name="SpringbootCookboot-ch0401-WritingCustomSpringBootStarters" />
+        <module name="SpringbootCookboot-ch0500-db-count-starter" />
+        <module name="SpringbootCookboot-ch0501-Application Testing" />
         <module name="SpringFramework" />
       </profile>
     </annotationProcessing>
@@ -41,6 +49,14 @@
       <module name="SpringbootCookbook-ch0203-ConfiguringCustomServletFilters" target="1.8" />
       <module name="SpringbootCookbook-ch0204-ConfiguringCustomInterceptors" target="1.8" />
       <module name="SpringbootCookbook-ch0205-ConfiguringCustomHttpMessageConverters" target="1.8" />
+      <module name="SpringbootCookboot-ch0206-ConfiguringCustomPropertyEditors" target="1.8" />
+      <module name="SpringbootCookboot-ch0301-ConfiguringRouteMatchingPatterns" target="1.8" />
+      <module name="SpringbootCookboot-ch0301-ConfiguringRouteMatchingPatterns (1)" target="1.8" />
+      <module name="SpringbootCookboot-ch040-db-count-starter" target="1.8" />
+      <module name="SpringbootCookboot-ch0400-db-count-starter" target="1.8" />
+      <module name="SpringbootCookboot-ch0401-WritingCustomSpringBootStarters" target="1.8" />
+      <module name="SpringbootCookboot-ch0500-db-count-starter" target="1.8" />
+      <module name="SpringbootCookboot-ch0501-Application Testing" target="1.8" />
       <module name="SpringFramework" target="1.5" />
     </bytecodeTargetLevel>
   </component>
