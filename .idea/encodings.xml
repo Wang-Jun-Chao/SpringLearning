@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/Springboot-001-多数据源" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Springboot-002-多profile" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringbootCookbook-ch01" charset="UTF-8" />
@@ -18,6 +18,8 @@
     <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0401-WritingCustomSpringBootStarters" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0500-db-count-starter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0600-db-count-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootCookboot-ch0601-ApplicationPackagingAndDeployment" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

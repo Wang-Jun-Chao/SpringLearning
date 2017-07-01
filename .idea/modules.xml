@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/SpringbootCookboot-ch0401-WritingCustomSpringBootStarters/SpringbootCookboot-ch0401-WritingCustomSpringBootStarters.iml" filepath="$PROJECT_DIR$/SpringbootCookboot-ch0401-WritingCustomSpringBootStarters/SpringbootCookboot-ch0401-WritingCustomSpringBootStarters.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringbootCookboot-ch0500-db-count-starter/SpringbootCookboot-ch0500-db-count-starter.iml" filepath="$PROJECT_DIR$/SpringbootCookboot-ch0500-db-count-starter/SpringbootCookboot-ch0500-db-count-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing/SpringbootCookboot-ch0501-Application Testing.iml" filepath="$PROJECT_DIR$/SpringbootCookboot-ch0501-Application Testing/SpringbootCookboot-ch0501-Application Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookboot-ch0600-db-count-starter/SpringbootCookboot-ch0600-db-count-starter.iml" filepath="$PROJECT_DIR$/SpringbootCookboot-ch0600-db-count-starter/SpringbootCookboot-ch0600-db-count-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootCookboot-ch0601-ApplicationPackagingAndDeployment/SpringbootCookboot-ch0601-ApplicationPackagingAndDeployment.iml" filepath="$PROJECT_DIR$/SpringbootCookboot-ch0601-ApplicationPackagingAndDeployment/SpringbootCookboot-ch0601-ApplicationPackagingAndDeployment.iml" />
     </modules>
   </component>
 </project>

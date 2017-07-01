@@ -29,6 +29,8 @@
         <module name="SpringbootCookboot-ch0401-WritingCustomSpringBootStarters" />
         <module name="SpringbootCookboot-ch0500-db-count-starter" />
         <module name="SpringbootCookboot-ch0501-Application Testing" />
+        <module name="SpringbootCookboot-ch0600-db-count-starter" />
+        <module name="SpringbootCookboot-ch0601-ApplicationPackagingAndDeployment" />
         <module name="SpringFramework" />
       </profile>
     </annotationProcessing>
@@ -57,6 +59,8 @@
       <module name="SpringbootCookboot-ch0401-WritingCustomSpringBootStarters" target="1.8" />
       <module name="SpringbootCookboot-ch0500-db-count-starter" target="1.8" />
       <module name="SpringbootCookboot-ch0501-Application Testing" target="1.8" />
+      <module name="SpringbootCookboot-ch0600-db-count-starter" target="1.8" />
+      <module name="SpringbootCookboot-ch0601-ApplicationPackagingAndDeployment" target="1.8" />
       <module name="SpringFramework" target="1.5" />
     </bytecodeTargetLevel>
   </component>
