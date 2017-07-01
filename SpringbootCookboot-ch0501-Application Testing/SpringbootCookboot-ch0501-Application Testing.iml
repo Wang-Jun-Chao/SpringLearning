@@ -87,7 +87,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:4.3.7.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:1.5.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.41" level="project" />
-    <orderEntry type="library" name="Maven: org.test.bookpub:SpringbootCookboot-ch0500-db-count-starter:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="SpringbootCookboot-ch0500-db-count-starter" />
     <orderEntry type="library" name="Maven: info.cukes:cucumber-spring:1.2.5" level="project" />
     <orderEntry type="library" name="Maven: info.cukes:cucumber-java:1.2.5" level="project" />
     <orderEntry type="library" name="Maven: info.cukes:cucumber-java8:1.2.5" level="project" />
